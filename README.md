@@ -1,2 +1,1 @@
-Meu primeiro arquivo no GIT
-alterar o que quiser
+Meu primeiro arquivo no GIT (alterado e atualizado!)
